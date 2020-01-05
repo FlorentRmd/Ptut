@@ -1,0 +1,21 @@
+#equipe1,#equipe2,#equipe3,#equipe4 {
+	display:none;
+	visibility:hidden;
+	height:50%;
+}
+
+#equipe1 {
+	background-color:red;
+}
+
+#equipe2 {
+	background-color:blue;
+}
+
+#equipe3 {
+	background-color:black;
+}
+
+#equipe4 {
+	background-color:grey;
+}
